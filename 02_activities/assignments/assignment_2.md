@@ -55,7 +55,7 @@ Improve Interactivity: If interactive, make it clear how to use features like ho
 Summary
 The good visualization is clear, accurate, and easy to use, while the bad one is confusing and lacks important details. By following simple rules like using clear labels, meaningful colors, and highlighting key points, we can make data visualizations that are easier to understand and more helpful for making decisions.
 
-      ```
+  ```
 - Word count should not exceed (as a maximum) 500 words for each visualization (i.e. 
 300 words for your good example and 500 for your bad example)
 
