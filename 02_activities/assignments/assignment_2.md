@@ -9,27 +9,53 @@
     - You can find data visualizations at https://public.tableau.com/app/discover or https://datavizproject.com/, or anywhere else you like! 
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
-      ```
-      Your answer...
+
+GOOD DATA VISUALIZATION:
+
+Visualization Title: "Global CO2 Emissions by Country Over Time"
+Source: Our World in Data
+Website Link: https://ourworldindata.org/explorers/co2?country=OWID_WRL~CAN~OWID_NAM~OWID_AFR&Gas+or+Warming=CO%E2%82%82&Accounting=Territorial&Fuel+or+Land+Use+Change=All+fossil+emissions&Count=Per+capita
+
+Why it is Good:
+Clear and Interactive: Uses an interactive line chart to show CO2 emissions over time.
+Easy to Compare: Each country has its own line, making it simple to compare trends.
+Color Differentiation: Colors help distinguish between countries.
+Tooltips: Hovering over lines gives more details.
+Clear Axes:
+Y-axis shows CO2 emissions in metric tons.
+X-axis shows years, making the timeline clear.
+Search Function: Lets you quickly find specific countries.
+User-Friendly: Clear, accurate, and easy to use.
 
 
+- How could this data visualization have been improved?  
+Add notes or highlights to point out important trends, like the impact of the Paris Agreement.
+This would help viewers understand key points more easily.
 
+BAD DATA VISUALIZATION:
+Visualization Title: "Sales of a Product Category"
+Source: Tableau Public
+Website Link: https://public.tableau.com/app/profile/komal7196/viz/Salesofaproductcategory/Salepermonthofaproductcategory
 
+Why it is Bad:
+No Title or Context: Missing a title or explanation of what product is being shown or the time period.
+Unlabeled Y-axis: Doesn’t say what units are used (e.g., dollars or units sold), so it’s hard to understand the scale.
+No Data Labels: Bars don’t have labels, so you can’t see exact sales numbers without hovering.
+Meaningless Colors: Colors don’t mean anything special.
+No Insights: No explanation of trends, like which months had the highest sales.
 
+ - How could this data visualization have been improved?  
+Add a Clear Title: Like "Monthly Sales of [Product Category] for [Year]."
+Label the Y-axis: Include units (e.g., "Sales in USD").
+Add Data Labels: Show exact sales numbers on each bar.
+Use Meaningful Colors: Like lighter colors for earlier months and darker colors for later months.
+Highlight Key Points: Point out important trends, like the best-selling month.
+Improve Interactivity: If interactive, make it clear how to use features like hovering for details.
 
+Summary
+The good visualization is clear, accurate, and easy to use, while the bad one is confusing and lacks important details. By following simple rules like using clear labels, meaningful colors, and highlighting key points, we can make data visualizations that are easier to understand and more helpful for making decisions.
 
-      ```
-    - How could this data visualization have been improved?  
-      ```
-      Your answer...
-
-
-
-
-
-
-      
-      ```
+  ```
 - Word count should not exceed (as a maximum) 500 words for each visualization (i.e. 
 300 words for your good example and 500 for your bad example)
 
